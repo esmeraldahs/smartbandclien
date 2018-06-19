@@ -1,0 +1,7 @@
+c:\users\user\source\repos\SmartBandClient\SmartBandClient\bin\Debug\SmartBandClient.exe.config
+c:\users\user\source\repos\SmartBandClient\SmartBandClient\bin\Debug\SmartBandClient.exe
+c:\users\user\source\repos\SmartBandClient\SmartBandClient\bin\Debug\SmartBandClient.pdb
+c:\users\user\source\repos\SmartBandClient\SmartBandClient\obj\Debug\SmartBandClient.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SmartBandClient\SmartBandClient\obj\Debug\SmartBandClient.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SmartBandClient\SmartBandClient\obj\Debug\SmartBandClient.exe
+c:\users\user\source\repos\SmartBandClient\SmartBandClient\obj\Debug\SmartBandClient.pdb
